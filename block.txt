@@ -31,4 +31,4 @@ m.dzen.ru
 ||su89-cdn.net*
 ||zspeed-cdn.com^
 ||yg5sjx5kzy.com^
-/*hola*.*.local.hola/
+||local.hola^
