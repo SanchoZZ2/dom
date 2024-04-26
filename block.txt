@@ -23,4 +23,5 @@ m.dzen.ru
 ||prmsrvs.com^
 ||bmetrics.org^
 /.zagent*/
+/zagent*.*-*.net/
 ||hola.org^
