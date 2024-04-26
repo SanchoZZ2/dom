@@ -26,4 +26,5 @@ m.dzen.ru
 /zagent*.*-*.net/
 /zagent*.*.net/
 /zagent*.*.com/
+||c6gj-static.net^
 ||hola.org^
