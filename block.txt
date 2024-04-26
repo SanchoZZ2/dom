@@ -21,6 +21,7 @@ m.dzen.ru
 #VPNs
 ||trafcfy.com^
 ||prmsrvs.com^
+/*.*.*.fastcloudcdn.net/
 ||bmetrics.org^
 /.zagent*/
 /zagent*.*-*.net/
