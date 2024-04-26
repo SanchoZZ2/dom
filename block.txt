@@ -28,7 +28,7 @@ m.dzen.ru
 /zagent*.*.com/
 ||c6gj-static.net^
 ||hola.org^
-su89-cdn.net
-zspeed-cdn.com
-yg5sjx5kzy.com
-
+||su89-cdn.net*
+||zspeed-cdn.com^
+||yg5sjx5kzy.com^
+/*hola*.*.local.hola/
