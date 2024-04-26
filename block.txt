@@ -24,4 +24,6 @@ m.dzen.ru
 ||bmetrics.org^
 /.zagent*/
 /zagent*.*-*.net/
+/zagent*.*.net/
+/zagent*.*.com/
 ||hola.org^
