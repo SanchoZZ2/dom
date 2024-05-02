@@ -33,3 +33,4 @@ m.dzen.ru
 ||zspeed-cdn.com^
 ||yg5sjx5kzy.com^
 ||local.hola^
+||krasgame.ru^
