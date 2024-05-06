@@ -4,6 +4,7 @@
 ||ezvizlife.com^
 ||hicloudcam.com^
 ||fenix88.com^
+||pluso.ru
 #Privacy
 ||skrinshoter.ru^
 ||skr.sh^
@@ -33,4 +34,3 @@ m.dzen.ru
 ||zspeed-cdn.com^
 ||yg5sjx5kzy.com^
 ||local.hola^
-||krasgame.ru^
