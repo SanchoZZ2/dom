@@ -4,7 +4,7 @@
 ||ezvizlife.com^
 ||hicloudcam.com^
 ||fenix88.com^
-||pluso.ru
+||toolservice.com.ru
 #Privacy
 ||skrinshoter.ru^
 ||skr.sh^
@@ -15,6 +15,7 @@
 ||api.ipify.org^
 ||okx.cab^
 ||coinall.ltd^
+||pluso.ru
 drah7iczdw1tu.cloudfront.net
 #social
 ||vk.ru^
