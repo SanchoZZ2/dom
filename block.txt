@@ -5,6 +5,7 @@
 ||hicloudcam.com^
 ||fenix88.com^
 ||toolservice.com.ru
+6to4.ipv6.microsoft.com
 #Privacy
 ||skrinshoter.ru^
 ||skr.sh^
