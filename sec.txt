@@ -54,3 +54,4 @@
 ||everest-c.ru^
 ||atp-c.ru^
 ||rzn-a-c.ru^
+||gofile.io^
