@@ -57,3 +57,4 @@
 ||gofile.io^
 ||web-whatsap.online^
 ||remoteutilities.com^
+||autoitscript.com^
