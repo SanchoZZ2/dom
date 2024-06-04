@@ -58,3 +58,4 @@
 ||web-whatsap.online^
 ||remoteutilities.com^
 ||autoitscript.com^
+||ddns.net^
