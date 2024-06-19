@@ -60,3 +60,7 @@
 ||autoitscript.com^
 ||ddns.net^
 ||1stcloth.ru^
+||.shop^
+||.link^
+||.onion^
+||.ai^
