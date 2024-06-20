@@ -60,6 +60,12 @@
 ||autoitscript.com^
 ||ddns.net^
 ||1stcloth.ru^
+||huggingface.co^
+||vashi-fayly.com^
+||document-cdn.org^
+||about-auto.ru^
+||finansistinfo.ru^
+||linualsut.ru^
 ||.shop^
 ||.link^
 ||.onion^
