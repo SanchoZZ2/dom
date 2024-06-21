@@ -66,6 +66,7 @@
 ||about-auto.ru^
 ||finansistinfo.ru^
 ||linualsut.ru^
+||vip22gr.ru^
 ||.shop^
 ||.link^
 ||.onion^
