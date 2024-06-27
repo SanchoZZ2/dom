@@ -4,9 +4,10 @@
 ||ezvizlife.com^
 ||hicloudcam.com^
 ||fenix88.com^
-||toolservice.com.ru
-||topgoroscope.online
-||clicktimes.bid
+||toolservice.com.ru^
+||topgoroscope.online^
+||clicktimes.bid^
+||updatemeter.com^
 6to4.ipv6.microsoft.com
 ||6to4.nro.net^
 #Privacy
