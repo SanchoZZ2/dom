@@ -67,6 +67,12 @@
 ||finansistinfo.ru^
 ||linualsut.ru^
 ||vip22gr.ru^
+||detectis.ru^
+||xsph.ru^
+||uaz.ru^
+||neborecords.ru^
+||bitbucket.org^
+||.nl^
 ||.shop^
 ||.link^
 ||.onion^
