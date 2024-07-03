@@ -10,6 +10,7 @@
 ||updatemeter.com^
 ||iworkwiththem.com^
 ||mizadolevu.icu^
+||unused-space.coop.net^
 ||polyfill.io^
 6to4.ipv6.microsoft.com
 ||6to4.nro.net^
