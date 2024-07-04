@@ -72,6 +72,8 @@
 ||parts.uaz.ru^
 ||neborecords.ru^
 ||bitbucket.org^
+||astra-cold.ru^
+||updatingservices.net^
 ||.nl^
 ||.shop^
 ||.link^
