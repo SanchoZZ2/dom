@@ -69,7 +69,7 @@
 ||vip22gr.ru^
 ||detectis.ru^
 ||xsph.ru^
-||uaz.ru^
+||parts.uaz.ru^
 ||neborecords.ru^
 ||bitbucket.org^
 ||.nl^
