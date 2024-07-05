@@ -1,4 +1,6 @@
 #block
+||iclaud.com^
+||yndex.ru^
 ||hik-connect.com^
 ||hik-connectru.com^
 ||ezvizlife.com^
