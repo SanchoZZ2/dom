@@ -79,3 +79,5 @@
 ||.link^
 ||.onion^
 ||.ai^
+#https://1275.ru/ioc/3612/cloudsorcerer-apt-iocs/
+my.mail.ru
