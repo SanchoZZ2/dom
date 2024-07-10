@@ -81,3 +81,7 @@
 ||.ai^
 #https://1275.ru/ioc/3612/cloudsorcerer-apt-iocs/
 my.mail.ru
+#https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/
+||accouts-verification.ru^
+||detectis.ru^
+||hostingforme.nl^
