@@ -75,11 +75,9 @@
 ||astra-cold.ru^
 ||updatingservices.net^
 #Drop 1lvl
-||nl^
 ||shop^
 ||link^
 ||onion^
-||ai^
 ||xyz^
 ||sbs^
 #https://1275.ru/ioc/3612/cloudsorcerer-apt-iocs/
