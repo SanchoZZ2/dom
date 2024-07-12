@@ -145,3 +145,5 @@ my.mail.ru
 ||yandex.cloud-file.site^
 ||altaskifer.sbs^
 ||winmetrica.info^
+#miner susp
+||pool-pay.com^
