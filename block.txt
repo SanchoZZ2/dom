@@ -31,6 +31,7 @@
 drah7iczdw1tu.cloudfront.net
 #social
 ||vk.ru^
+||msn.com^
 m.dzen.ru
 #VPNs
 ||trafcfy.com^
