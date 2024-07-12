@@ -15,6 +15,7 @@
 ||unused-space.coop.net^
 ||polyfill.io^
 ||alifenix.ru^
+||fileloade.site^
 6to4.ipv6.microsoft.com
 ||6to4.nro.net^
 #Privacy
