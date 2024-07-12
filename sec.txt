@@ -147,3 +147,4 @@ my.mail.ru
 ||winmetrica.info^
 #miner susp
 ||pool-pay.com^
+||winscan-pdf.ru^
