@@ -84,7 +84,6 @@
 my.mail.ru
 #https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/
 ||accouts-verification.ru^
-||detectis.ru^
 ||hostingforme.nl^
 #1514 10.07.2024
 ||dnssign.xyz^
@@ -146,3 +145,9 @@ my.mail.ru
 #miner susp
 ||pool-pay.com^
 ||winscan-pdf.ru^
+#1400 28.06.24
+||rampage.myvnc.com^
+||beonlineboo.com^
+||updatebrower.com^
+||boolka.tk^
+||boolka24.tk^
