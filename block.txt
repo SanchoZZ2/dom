@@ -1,4 +1,5 @@
 #block
+||providosiki.ru^
 ||iclaud.com^
 ||yndex.ru^
 ||hik-connect.com^
