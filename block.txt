@@ -17,6 +17,7 @@
 ||alifenix.ru^
 ||fileloade.site^
 ||dufixen.com^
+||andex.ru^
 6to4.ipv6.microsoft.com
 ||6to4.nro.net^
 #Privacy
