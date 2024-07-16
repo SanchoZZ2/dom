@@ -74,12 +74,6 @@
 ||bitbucket.org^
 ||astra-cold.ru^
 ||updatingservices.net^
-#Drop 1lvl
-||shop^
-||link^
-||onion^
-||xyz^
-||sbs^
 #https://1275.ru/ioc/3612/cloudsorcerer-apt-iocs/
 my.mail.ru
 #https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/
