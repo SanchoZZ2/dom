@@ -1,3 +1,9 @@
+#block TLD
+||shop^
+||link^
+||onion^
+||xyz^
+||sbs^
 #block
 ||providosiki.ru^
 ||iclaud.com^
