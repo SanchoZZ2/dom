@@ -81,7 +81,6 @@ my.mail.ru
 ||hostingforme.nl^
 #1514 10.07.2024
 ||dnssign.xyz^
-||net.anydesk.com^
 ||ngrok.io^
 ||upd-rkn.net^
 ||420021.com^
