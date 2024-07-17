@@ -5,6 +5,7 @@
 ||xyz^
 ||sbs^
 #block
+||net.anydesk.com^
 ||providosiki.ru^
 ||iclaud.com^
 ||yndex.ru^
