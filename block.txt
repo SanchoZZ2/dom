@@ -6,6 +6,7 @@
 ||sbs^
 #block
 ||net.anydesk.com^
+||kosmohubeq.space^
 ||providosiki.ru^
 ||iclaud.com^
 ||yndex.ru^
