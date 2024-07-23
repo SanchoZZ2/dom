@@ -144,3 +144,7 @@ my.mail.ru
 ||updatebrower.com^
 ||boolka.tk^
 ||boolka24.tk^
+# https://securelist.ru/phantomdl-darkwatchman-rat-targeted-attacks/109919/
+||wilbderreis.ru^
+||yandex-disk.info^
+||dev.sauselid.ru^
