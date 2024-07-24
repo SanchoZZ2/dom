@@ -63,3 +63,11 @@ m.dzen.ru
 ||local.hola^
 #some shit
 ||orbit-zenith.com^
+||bx-ring.msedge.net^
+||browser-sputnik.ru^
+||viihtklw.com^
+||klsiriusall.com^
+||traffix.click^
+||taglitics.com^
+||sputnik-lab.com^
+||fnkaudit.ru^
