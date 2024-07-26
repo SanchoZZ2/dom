@@ -7,6 +7,8 @@
 #https://www.virustotal.com/gui/file/bdf87325a5ccfd5059f3357c05221ec76927bea9f0cd9e2288a6160fd6ac8361/behavior
 ||friscomusicgroup.com^
 ||digitalbush.com^
+#https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/
+||pastebin.com^
 #block
 ||net.anydesk.com^
 ||kosmohubeq.space^
