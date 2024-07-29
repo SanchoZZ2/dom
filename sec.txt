@@ -175,3 +175,7 @@ my.mail.ru
 ||vervo.lat^
 ||wallpapercave.com^
 ||ye.pe^
+#https://any.run/cybersecurity-blog/brute-ratel-c4-analysis/
+||boriz400.com^
+||anikvan.com^
+||cloud-ara.tyk.io^
