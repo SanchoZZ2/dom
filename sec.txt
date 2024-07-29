@@ -179,3 +179,17 @@ my.mail.ru
 ||boriz400.com^
 ||anikvan.com^
 ||cloud-ara.tyk.io^
+#https://www.fortinet.com/blog/threat-research/exploiting-cve-2024-21412-stealer-campaign-unleashed
+||21centuryart.com^
+||scratchedcards.com^
+||proffyrobharborye.xyz^
+||answerrsdo.shop^
+||pcvcf.xyz^
+||pcvvf.xyz^
+||pdddk.xyz^
+||pdddj.xyz^
+||pddbj.xyz^
+||pbpbj.xyz^
+||pbdbj.xyz^
+||ptdrf.xyz^
+||pqdrf.xyz^
