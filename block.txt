@@ -1,6 +1,7 @@
 #block TLD
 ||shop^
 ||link^
+||click^
 ||onion^
 ||xyz^
 ||sbs^
