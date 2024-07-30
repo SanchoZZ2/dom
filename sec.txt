@@ -84,17 +84,14 @@ my.mail.ru
 #1514 10.07.2024
 ||dnssign.xyz^
 ||ngrok.io^
-||upd-rkn.net^
 ||420021.com^
 ||analytics.electroneek.ru^
-||avptp.com^
 ||change-pass.com^
 ||cloud-attachment.info^
 ||connect.otherliveupdate.com^
 ||deadork.com^
 ||download-attachment.xyz^
 ||easylink.lol^
-||eu-debian.com^
 ||f.change-pass.com^
 ||fsbkal.com^
 ||getanaccess.net^
@@ -103,7 +100,6 @@ my.mail.ru
 ||kavupdate.com^
 ||knlrgb.com^
 ||koh.fsbkal.com^
-||lib.rpm-bin.link^
 ||linuxpythonupdate.com^
 ||linuxupdate.live^
 ||localto.net^
@@ -117,7 +113,6 @@ my.mail.ru
 ||mail.cloud-file.site^
 ||mirror-update.org^
 ||msngrt.com^
-||netstaticpoints.com^
 ||onepostlive.com^
 ||onexboxlive.com^
 ||popslunderflake.top^
@@ -125,8 +120,6 @@ my.mail.ru
 ||roundcubemarketing.com^
 ||ru-cloud.info^
 ||saakashvili.com.ua^
-||stoloto.ai^
-||techcname.com^
 ||ticketsbrand.com^
 ||ukr-net.website^
 ||updateld.xyz^
@@ -198,3 +191,39 @@ my.mail.ru
 ||nashtab.org^
 ||obshchiye-resursy.com^
 ||sbordokumentov.com^
+#1644 26.07.2024
+||e-trueconf.ru^
+||ggnpsale.ru^
+||tw1.ru^
+#1618 24.07.2024
+||modultaip.ru^
+||launchprom.ru^
+||updateapi.ru^
+||airgrupdate.ru^
+||updourlan.ru^
+||rawgithubcontent.ru^
+||supportsecurity.ru^
+||olhostingupd.ru^
+||mastersync.ru^
+||wheelprom.ru^
+||sauselid.ru^
+||syncpulse.ru^
+||ugroteches.ru^
+||sdufho.ru^
+||officesync.ru^
+||update54.ru^
+||kutruolu.ru^
+||archivubuntu.ru^
+||updatecanonical.ru^
+||austermis.ru^
+||updatesioa.ru^
+||login-verify.support^
+||lanodesrl.ru^
+||updatens.ru^
+||cabinet-company.info^
+||jaudyoyh.ru^
+||supportsecure.ru^
+||cabinet-yandex.info^
+||updateosd.ru^
+||api.wilbderreis.ru^
+||api.yandex-disk.info^
