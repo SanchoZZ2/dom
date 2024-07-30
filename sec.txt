@@ -193,3 +193,8 @@ my.mail.ru
 ||pbdbj.xyz^
 ||ptdrf.xyz^
 ||pqdrf.xyz^
+#https://habr.com/ru/companies/f_a_c_c_t/news/831420/
+||protej.org^
+||nashtab.org^
+||obshchiye-resursy.com^
+||sbordokumentov.com^
