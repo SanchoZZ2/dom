@@ -1,5 +1,6 @@
 #Remote
 ||remotedesktop.google.com^
+||kali.org^
 #SEC
 ||fb0bf2b1.shop^
 ||2a0cfd0c.shop^
