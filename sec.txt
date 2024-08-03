@@ -228,3 +228,6 @@ my.mail.ru
 ||updateosd.ru^
 ||api.wilbderreis.ru^
 ||api.yandex-disk.info^
+#https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats
+||trycloudflare.com^
+||duckdns.org^
