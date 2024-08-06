@@ -2,6 +2,7 @@
 ||remotedesktop.google.com^
 ||kali.org^
 #SEC
+||tinyurl.com^
 ||fb0bf2b1.shop^
 ||2a0cfd0c.shop^
 ||saitraif.ru^
