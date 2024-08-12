@@ -4,4 +4,3 @@
 ||wireguard.com^
 ||nslookup.io^
 ||opera.com^
-||vemz.net^
