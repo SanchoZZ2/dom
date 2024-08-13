@@ -236,3 +236,7 @@ my.mail.ru
 #https://securelist.ru/eastwind-apt-campaign/110020/
 ||livejournal.com^
 ||dropbox.com^
+#1539 15.07.2024
+||localzilla.fun^
+||sensor.fun^
+||urler.site^
