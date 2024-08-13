@@ -233,3 +233,6 @@ my.mail.ru
 #https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats
 ||trycloudflare.com^
 ||duckdns.org^
+#https://securelist.ru/eastwind-apt-campaign/110020/
+||livejournal.com^
+||dropbox.com^
