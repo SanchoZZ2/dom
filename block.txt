@@ -84,3 +84,5 @@ m.dzen.ru
 ||fnkaudit.ru^
 ||witstroom.com^
 ||dropbox.com^
+||vpn-naruzhu.website^
+||vpnnaruzhu.com^
