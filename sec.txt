@@ -239,3 +239,7 @@ my.mail.ru
 ||localzilla.fun^
 ||sensor.fun^
 ||urler.site^
+#https://habr.com/ru/companies/f_a_c_c_t/articles/836264/
+||diadok.net^
+||1cbit.org^
+||c688de.com
