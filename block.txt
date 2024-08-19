@@ -86,3 +86,4 @@ m.dzen.ru
 ||dropbox.com^
 ||vpn-naruzhu.website^
 ||vpnnaruzhu.com^
+||spload.site^
