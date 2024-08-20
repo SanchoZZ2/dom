@@ -239,6 +239,12 @@ my.mail.ru
 ||localzilla.fun^
 ||sensor.fun^
 ||urler.site^
+||downlod-bussines.ru^
+||doc2024.ru^
+||bussines-raff.fun^
+||doc-1c.fun^
+||sk-krona.fun^
+||downlod-bussines.ru^
 #https://habr.com/ru/companies/f_a_c_c_t/articles/836264/
 ||diadok.net^
 ||1cbit.org^
