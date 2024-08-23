@@ -90,3 +90,4 @@ m.dzen.ru
 ||vpn-naruzhu.website^
 ||vpnnaruzhu.com^
 ||spload.site^
+||telega.one^
