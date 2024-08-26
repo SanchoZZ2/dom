@@ -11,9 +11,6 @@
 ||dad^
 ||games^
 ||nr^
-#https://www.virustotal.com/gui/file/bdf87325a5ccfd5059f3357c05221ec76927bea9f0cd9e2288a6160fd6ac8361/behavior
-||friscomusicgroup.com^
-||digitalbush.com^
 #https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/
 ||pastebin.com^
 #https://www.virustotal.com/gui/file/e8833753c577fada3bfb782a806fe4416a72ac905b6b00087bf48f3df8c3757e/behavior
