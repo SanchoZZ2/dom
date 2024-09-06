@@ -92,7 +92,6 @@ m.dzen.ru
 #KMS
 kms.digiboy.ir
 hq1.chinancce.com
-54.223.212.31
 kms.cnlic.com
 kms.chinancce.com
 kms.ddns.net
@@ -109,15 +108,12 @@ kms.03k.org
 kms.lotro.cc
 mhd.kmdns.net110
 noip.me
-45.78.3.223
 kms.didichuxing.coms
 zh.us.to
 toxykz.f3322.org
 kms.guowaifuli.com
 106.186.25.2393
 rss.vicp.net:20439
-122.226.152.230
-222.76.251.188
 annychen.pw
 heu168.6655.la
 kms.aglc.cc
