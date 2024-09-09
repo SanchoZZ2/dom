@@ -266,3 +266,7 @@ my.mail.ru
 ||digitalbush.com^
 #https://github.com/DoctorWebLtd/malware-iocs/blob/master/APT_rail_transportation_operator/README.adoc
 ||infosecteam.info^
+#1956 06.08.2024
+||sportsboulevard-shop.com^
+||glbuhi.online^
+||inforussia.org^
