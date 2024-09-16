@@ -299,3 +299,10 @@ my.mail.ru
 ||ngrok-free.app^
 ||getshared.com^
 ||fermazapoved.ru^
+#1902 29.08.2024
+||a2zglobalimports.com^
+||villa-ventura.com^
+||mns-professional.com.hr^
+||accouts-verification.ru^
+||supports-update.info^
+||infosecur-date.homes^
