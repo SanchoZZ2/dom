@@ -5,3 +5,4 @@
 ||nslookup.io^
 ||opera.com^
 ||hik-connectru.com^$client='192.168.4.126'
+||abuse.ch^
