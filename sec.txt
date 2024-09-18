@@ -307,3 +307,6 @@ my.mail.ru
 ||accouts-verification.ru^
 ||supports-update.info^
 ||infosecur-date.homes^
+#2006 17.09.24
+||geoplugin.net^
+||ge^
