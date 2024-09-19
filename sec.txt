@@ -325,3 +325,5 @@ my.mail.ru
 ||mirotalk.net^
 ||ipcheck.cloud^
 ||regioncheck.net^
+||ztec.store^
+||blocktestingto.com^
