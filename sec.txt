@@ -327,3 +327,6 @@ my.mail.ru
 ||regioncheck.net^
 ||ztec.store^
 ||blocktestingto.com^
+#https://securelist.ru/unicorn-data-stealing-scripts/110606/
+||petition-change.org^
+||yadi.sk^
