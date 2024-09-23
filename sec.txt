@@ -1,10 +1,12 @@
 #Remote
 ||remotedesktop.google.com^
 ||kali.org^
-#SEC
+#urlshort
 ||bit.ly^
 ||tinyurl.com^
 ||vk.cc^
+||clck.ru^
+#SEC
 ||fb0bf2b1.shop^
 ||2a0cfd0c.shop^
 ||saitraif.ru^
