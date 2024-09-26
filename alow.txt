@@ -9,3 +9,4 @@
 ||muzofond.fm^
 ||anchor.fm^
 ||domination.one^
+||vk.ru^$client='192.168.3.80'
