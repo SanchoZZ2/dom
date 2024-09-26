@@ -332,3 +332,12 @@ my.mail.ru
 #https://securelist.ru/unicorn-data-stealing-scripts/110606/
 ||petition-change.org^
 ||yadi.sk^
+#https://habr.com/ru/companies/f_a_c_c_t/news/845766/
+||techitzone.ru^
+213.183.54.123
+||about-tech.ru^
+||orkprank.ru^
+||borosan.ru^
+||mysafer.ru^
+||rtxcore.ru^
+||min-trud-gov.ru^
