@@ -47,7 +47,6 @@
 ||eg^
 ||es^
 ||et^
-||eu^
 ||expert^
 ||fm^
 ||fr^
