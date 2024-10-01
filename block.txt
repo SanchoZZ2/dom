@@ -35,7 +35,6 @@
 ||cn^
 ||co^
 ||community^
-||company^
 ||cyou^
 ||cz^
 ||dad^
