@@ -341,3 +341,9 @@ my.mail.ru
 ||mysafer.ru^
 ||rtxcore.ru^
 ||min-trud-gov.ru^
+#https://habr.com/ru/companies/f_a_c_c_t/articles/847884
+||beltifay.com^
+||andyty.com^
+||warnsatellite.com^
+||appearahead.com^
+||guardianyz.com^
