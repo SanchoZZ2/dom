@@ -12,8 +12,6 @@
 ||zig.is^
 #SEC
 147.45.179.98
-151.101.130.132
-151.101.2.132
 ||fb0bf2b1.shop^
 ||2a0cfd0c.shop^
 ||saitraif.ru^
