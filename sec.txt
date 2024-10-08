@@ -313,7 +313,6 @@ my.mail.ru
 ||a2zglobalimports.com^
 ||villa-ventura.com^
 ||mns-professional.com.hr^
-||accouts-verification.ru^
 ||supports-update.info^
 ||infosecur-date.homes^
 #2006 17.09.24
@@ -354,3 +353,6 @@ my.mail.ru
 ||warnsatellite.com^
 ||appearahead.com^
 ||guardianyz.com^
+#2137 30.09.24
+||control-issue.net^
+||updatedownloader.com^
