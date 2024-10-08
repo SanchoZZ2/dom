@@ -229,7 +229,7 @@ m.dzen.ru
 ||local.hola^
 #some shit
 ||orbit-zenith.com^
-||bx-ring.msedge.net^
+||ev2-ring.msedge.net^
 ||browser-sputnik.ru^
 ||viihtklw.com^
 ||klsiriusall.com^
