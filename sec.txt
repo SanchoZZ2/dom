@@ -356,3 +356,5 @@ my.mail.ru
 #2137 30.09.24
 ||control-issue.net^
 ||updatedownloader.com^
+#https://securelist.ru/awaken-likho-apt-new-implant-campaign/110746/
+||kwazindernuren.com^
