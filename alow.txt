@@ -10,6 +10,7 @@
 ||anchor.fm^
 ||domination.one^
 ||webinar.fm^
+||termi.us^
 ||vk.ru^$client='192.168.3.80'
 #для почты 42.sfr.gov.ru
 ||armgs.team^
