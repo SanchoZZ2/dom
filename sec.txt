@@ -356,3 +356,8 @@ my.mail.ru
 ||updatedownloader.com^
 #https://securelist.ru/awaken-likho-apt-new-implant-campaign/110746/
 ||kwazindernuren.com^
+#https://bi.zone/expertise/blog/ne-budi-likho-core-werewolf-sovershenstvuet-ataki-na-rossiyskie-gosorganizatsii/
+||dsksb.ru^
+||1tutor.ru^
+||conversesuisse.net^
+||cntula.ru^
