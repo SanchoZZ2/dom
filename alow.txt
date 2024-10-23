@@ -11,5 +11,6 @@
 ||domination.one^
 ||webinar.fm^
 ||vk.ru^$client='192.168.3.80'
+||vk.ru^$client='chernov'
 #для почты 42.sfr.gov.ru
 ||armgs.team^
