@@ -386,3 +386,5 @@ my.mail.ru
 ||xgraphic.ro^
 #2357 22.10.2024
 ||toproducts.ru^
+#https://t.me/purpleshift/63
+||argotunnel.com^
