@@ -28,3 +28,4 @@ login.vk.com^
 login.vk.ru^
 oauth.vk.com^
 oauth.vk.ru^
+static.vk.com^
