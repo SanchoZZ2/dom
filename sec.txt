@@ -388,3 +388,5 @@ my.mail.ru
 ||toproducts.ru^
 #https://t.me/purpleshift/63
 ||argotunnel.com^
+#https://1275.ru/ioc/7359/troyanskie-forki-ethers-na-npm-pytayutsya-ukrast-privatnye-klyuchi-ethereum
+||ether-sign.com^
