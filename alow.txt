@@ -12,5 +12,6 @@
 ||webinar.fm^
 ||vk.ru^$client='chernov'
 ||vk.ru^$client='192.168.2.179'
+||vk.com^$client='192.168.2.179'
 #для почты 42.sfr.gov.ru
 ||armgs.team^
