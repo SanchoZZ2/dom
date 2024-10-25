@@ -10,10 +10,6 @@
 ||anchor.fm^
 ||domination.one^
 ||webinar.fm^
-id.vk.com^
-api.vk.com^
-id.vk.ru^
-api.vk.ru^
 ||vk.ru^$client='chernov'
 ||vk.ru^$client='192.168.2.179'
 ||vk.com^$client='192.168.2.179'
@@ -21,3 +17,12 @@ api.vk.ru^
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
 #для почты 42.sfr.gov.ru
 ||armgs.team^
+#vk
+id.vk.com^
+api.vk.com^
+id.vk.ru^
+api.vk.ru^
+persiq.vk.com
+||vk-portal.net^
+login.vk.com^
+login.vk.ru^
