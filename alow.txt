@@ -26,3 +26,5 @@ persiq.vk.com
 ||vk-portal.net^
 login.vk.com^
 login.vk.ru^
+oauth.vk.com^
+oauth.vk.ru^
