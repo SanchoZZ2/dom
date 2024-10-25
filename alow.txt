@@ -10,8 +10,8 @@
 ||anchor.fm^
 ||domination.one^
 ||webinar.fm^
-||id.vk.com^
-||id.vk.ru^
+id.vk.com^
+id.vk.ru^
 ||vk.ru^$client='chernov'
 ||vk.ru^$client='192.168.2.179'
 ||vk.com^$client='192.168.2.179'
