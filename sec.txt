@@ -390,3 +390,15 @@ my.mail.ru
 ||argotunnel.com^
 #https://1275.ru/ioc/7359/troyanskie-forki-ethers-na-npm-pytayutsya-ukrast-privatnye-klyuchi-ethereum
 ||ether-sign.com^
+#2379 24.10.2024
+||golden-scalen.com^
+||xoomep1.com^
+||xoomep2.com^
+||labudanka1.com^
+||labudanka2.com^
+||gribidi1.com^
+||gribidi2.com^
+||shetrn1.com^
+||shetrn2.com^
+||glbuhi.ru^
+||info-tool.net^
