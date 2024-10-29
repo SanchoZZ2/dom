@@ -402,3 +402,16 @@ my.mail.ru
 ||shetrn2.com^
 ||glbuhi.ru^
 ||info-tool.net^
+#stealer 5298774ecd7e988207b0e1a81830547ba9c9401909b87c7cf377c931689d7a15
+||api.ip.sb^
+||docs.oasis-open.org^
+||tempuri.org^
+||carterandcone.coml^
+||www.fontbureau.comce^
+||www.fontbureau.comceaQ^
+||founder.com.cn^
+||galapagosdesign.com^
+||sandoll.co.kr^
+||starwars.com^
+||typography.netD^
+||zhongyicts.com.cn^
