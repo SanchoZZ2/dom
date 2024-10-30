@@ -22,5 +22,6 @@
 ||vk.com^$client='192.168.2.179'
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.3.40'
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
-#для почты 42.sfr.gov.ru
+#для почты
 ||armgs.team^
+|mail./*./*^
