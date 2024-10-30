@@ -141,7 +141,6 @@
 ||space^
 ||sv^
 ||sz^
-||team^
 ||tg^
 ||th^
 ||tn^
