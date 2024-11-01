@@ -243,6 +243,7 @@ m.dzen.ru
 ||spload.site^
 ||telega.one^
 ||sensyneshalessheikhs.site^
+||sdk.epotok.com^
 #KMS
 kms.digiboy.ir
 hq1.chinancce.com
