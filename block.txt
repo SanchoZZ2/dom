@@ -227,6 +227,7 @@ m.dzen.ru
 ||yg5sjx5kzy.com^
 ||local.hola^
 #some shit
+||fwtnrczqrj.com^
 ||orbit-zenith.com^
 ||ev2-ring.msedge.net^
 ||browser-sputnik.ru^
