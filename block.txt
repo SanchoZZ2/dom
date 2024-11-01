@@ -84,6 +84,7 @@
 ||live^
 ||lk^
 ||lol^
+||loans^
 ||lt^
 ||ltd^
 ||lu^
@@ -155,6 +156,7 @@
 ||us^
 ||uy^
 ||uz^
+||hair^
 ||ve^
 ||vn^
 ||website^
