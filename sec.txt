@@ -512,3 +512,5 @@ my.mail.ru
 #phish
 ||8kilobytes.com^
 ||supremecluster.com^
+#malwared
+||elektromontazh-profi.ru^
