@@ -509,3 +509,6 @@ my.mail.ru
 ||webtimeapi.com^
 ||wirelesszone.top^
 ||writerospzm.shop^
+#phish
+||8kilobytes.com^
+||supremecluster.com^
