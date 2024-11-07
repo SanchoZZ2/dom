@@ -514,3 +514,7 @@ my.mail.ru
 #2585 01.11.2024
 ||petition-change.org^
 ||credit-bestsale.ru^
+#2529 06.11.2024
+||31231851.xyz^
+||leisurecreste.com^
+||ctaporegi.com^
