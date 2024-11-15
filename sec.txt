@@ -517,3 +517,20 @@ my.mail.ru
 ||auvergnerhonealpes-jo.com^
 ||reload-config.com^
 ||net-plugin.org^
+#2609 14.11.2024
+||hestiacp.com^
+||solscan.life^
+||solscan.one^
+||solscan.online^
+||solscan.store^
+||devnull.anondns.net^
+||teamtnt.red^
+||ankjdans.xyz^
+||cloudstaymoon.com^
+||squarecircle.ru^
+||technoguides.org^
+||instanthq.com^
+||cloudns.cl^
+||tftpd.net^
+||alfabiznessu.ru^
+||org.my^
