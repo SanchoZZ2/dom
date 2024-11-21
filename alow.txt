@@ -24,3 +24,5 @@
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
 #для почты
 ||armgs.team^
+||builddocs.online^client='192.168.192.15'
+||builddocs.online^client='192.168.3.50'
