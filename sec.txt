@@ -534,3 +534,28 @@ my.mail.ru
 ||tftpd.net^
 ||alfabiznessu.ru^
 ||org.my^
+#2723 26.11.24
+||il-cert.net^
+||onlinelive.info^
+||mail.murchisonspice.co.za^
+||mail.precioustouchfoundation.org^
+||mail.speedhouseoman.com^
+||mail.stpgig.com^
+||mail.citycleaning.ru^
+||smtp.beget.ru^
+||mx2.nsau.edu.ru^
+||quasarpro.ru^
+||zenit.kz^
+||gomselmash.by^
+||mail.mct2.co.za^
+||connect.otherliveupdate.com^
+||ticketsbrand.com^
+#2777 29.11.24
+||tvdseo.com^
+||apple-online.shop^
+||rvthereyet.com^
+||center-mail.ru^
+||wmiadap.cfd^
+||weventlog.store^
+||wmiadap.sbs^
+||wmiadap.xyz^
