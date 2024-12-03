@@ -561,3 +561,9 @@ my.mail.ru
 ||wmiadap.xyz^
 #https://securelist.ru/angry-likho-another-campaign-with-darktrack-rat
 ||nanoshield.pro^
+#b98dc81252fba9570a6b3d621e30a353e7111fc41e38813b10824faae4e128d6
+||3xfootball.com^
+||antonio-vivaldi.mobi^
+||goldenjade-travel.com^
+||kasegitai.tokyo^
+||magmadokum.com^
