@@ -559,3 +559,5 @@ my.mail.ru
 ||weventlog.store^
 ||wmiadap.sbs^
 ||wmiadap.xyz^
+#https://securelist.ru/angry-likho-another-campaign-with-darktrack-rat
+||nanoshield.pro^
