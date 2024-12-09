@@ -25,3 +25,4 @@
 #для почты
 ||armgs.team^
 ||navi42.ru^
+||list.ru
