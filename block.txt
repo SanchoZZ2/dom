@@ -232,6 +232,7 @@ m.dzen.ru
 #some shit
 ||fwtnrczqrj.com^
 ||orbit-zenith.com^
+||rift-quantum.com^
 ||ev2-ring.msedge.net^
 ||browser-sputnik.ru^
 ||viihtklw.com^
