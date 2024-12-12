@@ -22,6 +22,7 @@
 ||vk.com^$client='192.168.2.179'
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.3.40'
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
+||docker.io^
 #для почты
 ||armgs.team^
 ||navi42.ru^
