@@ -589,9 +589,10 @@ my.mail.ru
 ||shetrn2.com^
 ||golden-scalen.com^
 #https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/BlackBasta_SocialEngineering_IOCs.txt
-||doc1.docu-duplicator.com^
-||doc2.docu-duplicator.com^
-||doc.docu-duplicator.com^
+||docu-duplicator.com^
+#doc1.docu-duplicator.com^
+#doc2.docu-duplicator.com^
+#doc.docu-duplicator.com^
 ||arifgrouporg-my.sharepoint.com^
 ||bigdealcenter.world^
 ||binusianorg-my.sharepoint.com^
