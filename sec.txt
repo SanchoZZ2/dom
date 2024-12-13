@@ -588,3 +588,7 @@ my.mail.ru
 ||shetrn1.com^
 ||shetrn2.com^
 ||golden-scalen.com^
+#https://www.zscaler.com/blogs/security-research/inside-zloader-s-latest-trick-dns-tunneling
+||bigdealcenter.world^
+||unitedcommunity.world^
+||ns1.brownswer.com^
