@@ -2,6 +2,7 @@
 ||rmansys.ru^
 ||selcdn.ru^
 #other
+||jodies.de^
 ||web-check.xyz^
 ||sbis.link^
 ||www.comss.ru^
