@@ -3,6 +3,7 @@
 ||selcdn.ru^
 #other
 ||jodies.de^
+iperf.fr
 ||web-check.xyz^
 ||sbis.link^
 ||www.comss.ru^
