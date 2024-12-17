@@ -4,6 +4,7 @@
 #other
 ||jodies.de^
 iperf.fr
+||chiark.greenend.org.uk^
 ||web-check.xyz^
 ||sbis.link^
 ||www.comss.ru^
