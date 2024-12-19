@@ -608,3 +608,6 @@ my.mail.ru
 ||summerrain.cloud^
 ||unitedcommunity.world^
 ||ns1.brownswer.com^
+#https://bi.zone/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/
+||disk-yanbex.ru^
+||lobbyluxuries.com^
