@@ -611,3 +611,11 @@ my.mail.ru
 #https://bi.zone/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/
 ||disk-yanbex.ru^
 ||lobbyluxuries.com^
+#3007 17.12.2024
+||myftp.info^
+||mivz.ru^
+||ngrok.io^
+||firewall-gateway.de^
+||ydns.eu^
+||city-tuning.ru^
+||filetransfer.io^
