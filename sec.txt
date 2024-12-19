@@ -619,3 +619,6 @@ my.mail.ru
 ||ydns.eu^
 ||city-tuning.ru^
 ||filetransfer.io^
+#VT d1348d73eafbcd78a584ce7c57542331061bbd44d2b425644e92d01368ad6862
+||bd0baba4.online^
+||bd0baba4.store^
