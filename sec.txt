@@ -548,8 +548,6 @@ my.mail.ru
 ||zenit.kz^
 ||gomselmash.by^
 ||mail.mct2.co.za^
-||connect.otherliveupdate.com^
-||ticketsbrand.com^
 #2777 29.11.24
 ||tvdseo.com^
 ||apple-online.shop^
@@ -575,19 +573,7 @@ my.mail.ru
 ||tnecharise.biz^
 ||remote.hipool.shop^
 ||wmpssvc.online^
-||weventlog.store^
-||winmetrica.info^
 ||wuauserv.site^
-||wmiadap.sbs^
-||xoomep1.com^
-||xoomep2.com^
-||labudanka1.com^
-||labudanka2.com^
-||gribidi1.com^
-||gribidi2.com^
-||shetrn1.com^
-||shetrn2.com^
-||golden-scalen.com^
 #https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/BlackBasta_SocialEngineering_IOCs.txt
 ||docu-duplicator.com^
 #doc1.docu-duplicator.com^
@@ -609,12 +595,10 @@ my.mail.ru
 ||unitedcommunity.world^
 ||ns1.brownswer.com^
 #https://bi.zone/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/
-||disk-yanbex.ru^
 ||lobbyluxuries.com^
 #3007 17.12.2024
 ||myftp.info^
 ||mivz.ru^
-||ngrok.io^
 ||firewall-gateway.de^
 ||ydns.eu^
 ||city-tuning.ru^
@@ -623,10 +607,8 @@ my.mail.ru
 ||bd0baba4.online^
 ||bd0baba4.store^
 ||bd0baba4.fun^
-||bd0baba4.store^
 ||bd0baba4.space^
 ||bd0baba4.site^
-||bd0baba4.online^
 ||bd0baba4.shop^
 ||101ff85d.store^
 ||101ff85d.site^
@@ -1344,12 +1326,9 @@ my.mail.ru
 ||fff8f36a.store^
 #https://securelist.ru/cloud-atlas-attacks-with-new-backdoor-vbcloud
 ||content-protect.net^
-||control-issue.net^
 ||office-confirm.com^
-||onesoftware.info^
 ||serverop-parametrs.com^
 ||web-privacy.net^
-||net-plugin.org^
 ||triger-working.com^
 ||yandesks.net^
 ||yandisk.info^
