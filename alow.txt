@@ -26,6 +26,7 @@ iperf.fr
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.3.40'
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
 ||docker.io^
+||zoom.us^
 #для почты
 ||armgs.team^
 ||navi42.ru^
