@@ -7,6 +7,7 @@ iperf.fr
 ||chiark.greenend.org.uk^
 ||web-check.xyz^
 ||sbis.link^
+||hpi.de^
 ||www.comss.ru^
 ||wireguard.com^
 ||nslookup.io^
