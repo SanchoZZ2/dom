@@ -3,6 +3,7 @@
 ||selcdn.ru^
 #other
 ||jodies.de^
+aka.ms^
 iperf.fr
 ||chiark.greenend.org.uk^
 ||web-check.xyz^
