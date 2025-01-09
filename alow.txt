@@ -5,7 +5,7 @@
 ||jodies.de^
 termi.us^
 aka.ms^
-iperf.fr
+iperf.fr^
 ||chiark.greenend.org.uk^
 ||web-check.xyz^
 ||sbis.link^
