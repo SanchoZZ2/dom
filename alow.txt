@@ -3,6 +3,7 @@
 ||selcdn.ru^
 #other
 ||jodies.de^
+termi.us^
 aka.ms^
 iperf.fr
 ||chiark.greenend.org.uk^
