@@ -1445,3 +1445,11 @@ my.mail.ru
 ||sclpfybn.com^
 ||tnagofsg.com^
 ||kra18.com^
+#FakeTicketer
+||storages.supports-update.info^
+||fille.updates-drive.info^
+||dateo.drive-infos.homes^
+||updates.infosecur-date.homes^
+||mobis.my-android.homes^
+||fensesyste.defaces-homes.lol^
+||rk-simferopol-municipal.insurance-rus.shop^
