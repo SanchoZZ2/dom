@@ -36,3 +36,4 @@ iperf.fr^
 ||armgs.team^
 ||navi42.ru^
 ||list.ru
+||gmail.com^
