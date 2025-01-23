@@ -1479,3 +1479,8 @@ my.mail.ru
 ||yandex-disk.info^
 ||platforma-zakupki.ru^
 ||oldwizard.uz^
+#168 23.01.25
+||ok33r.shop
+||checkip.dyndns.org^
+||reallyfreegeoip.org^
+||cyberservice24.com^
