@@ -1470,3 +1470,12 @@ my.mail.ru
 ||crabdance.com^
 ||dns.army^
 ||hopto.org^
+#Rogue_RDP
+||linualsut.ru^
+||sdufho.ru^
+||jaudyoyh.ru^
+||sauselid.ru^
+||wilbderreis.ru^
+||yandex-disk.info^
+||platforma-zakupki.ru^
+||oldwizard.uz^
