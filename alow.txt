@@ -3,6 +3,7 @@
 ||rmansys.ru^
 ||selcdn.ru^
 #other
+||zipteh.online^
 ||impart.online^
 ||jodies.de^
 termi.us^
