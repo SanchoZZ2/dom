@@ -1546,3 +1546,9 @@ my.mail.ru
 ||zplg.org^
 ||zusv.org^
 ||zwgr.org^
+#246
+||nefteparkstroy.ru^
+||fmsru.ru^
+||platforma-zakupki.ru^
+||cyberservice24.com^
+||argusscan.ru^
