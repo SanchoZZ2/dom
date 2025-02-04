@@ -11,6 +11,7 @@
 ||r2.dev^
 ||zig.is^
 #SEC
+onion^
 147.45.179.98
 ||fb0bf2b1.shop^
 ||2a0cfd0c.shop^
@@ -1609,3 +1610,10 @@ my.mail.ru
 ||verifikations.ru^
 ||verify-email.ru^
 ||verify-login.ru^
+#334 04.02.2025
+||fb0bf2b1.site^
+||fb0bf2b1.online^
+||starmining.az^
+||hellcat.locker^
+||hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion^
+||izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion^
