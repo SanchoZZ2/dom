@@ -6,6 +6,7 @@
 ||zipteh.online^
 ||impart.online^
 ||jodies.de^
+||s7cdn.online^
 termi.us^
 tweetfeed.live^
 aka.ms^
