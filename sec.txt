@@ -1619,3 +1619,6 @@ my.mail.ru
 ||izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion^
 #malwar_0ad0c1d0348d526f7c84923a80a4f74c923715d9ca9fff3aebf07d81009a51a1
 ||4ad74aab.online^
+#345 06.02.2025
+||hamrick.com^
+||podofo.sf.net^
