@@ -1677,3 +1677,6 @@ my.mail.ru
 ||glitch.me^
 ||block-monitor.net^
 ||mail-cheker.nl^
+#https://securelist.ru/merlin-loki-mythic-attacks/111704/
+||gkrzn.ru^
+||yuristconsultant.ru^
