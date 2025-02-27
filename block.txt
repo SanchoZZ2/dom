@@ -137,7 +137,6 @@
 ||sg^
 ||shop^
 ||site^
-||sk^
 ||social^
 ||space^
 ||sv^
