@@ -169,7 +169,6 @@
 #https://www.virustotal.com/gui/file/e8833753c577fada3bfb782a806fe4416a72ac905b6b00087bf48f3df8c3757e/behavior
 ||cash4cars.nz^
 #block
-||net.anydesk.com^
 ||kosmohubeq.space^
 ||viirocjw.com^
 ||providosiki.ru^
