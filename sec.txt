@@ -1812,3 +1812,5 @@ wondrous-bluejay-lively-ngrok-free.app
 ||6e93d646.store^
 ||f62a2474.space^
 ||f55445cb.fun^
+#https://1275.ru/ioc/squid-werewolf-apt-iocs_9918
+||hostwindsdns.com^
