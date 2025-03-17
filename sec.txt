@@ -1925,3 +1925,6 @@ wondrous-bluejay-lively-ngrok-free.app
 ||webrat.ru^
 ||wowbiba.ru^
 ||zaliff.ru^
+#https://1275.ru/ioc
+||360nvidia.com^
+||web-telegram.uk^
