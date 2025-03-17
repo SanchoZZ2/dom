@@ -1,11 +1,8 @@
+#https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/
+||pastebin.com^
 #Remote
 ||remotedesktop.google.com^
 ||kali.org^
-#urlshort
-||bit.ly^
-||tinyurl.com^
-||vk.cc^
-||clck.ru^
 #shit
 ||rlu.ru^
 ||r2.dev^
@@ -88,8 +85,6 @@ onion^
 ||bitbucket.org^
 ||astra-cold.ru^
 ||updatingservices.net^
-#https://1275.ru/ioc/3612/cloudsorcerer-apt-iocs/
-my.mail.ru
 #https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/
 ||accouts-verification.ru^
 ||hostingforme.nl^
@@ -1445,7 +1440,6 @@ my.mail.ru
 ||oldwizard.uz^
 #168 23.01.25
 ||ok33r.shop
-||checkip.dyndns.org^
 ||reallyfreegeoip.org^
 ||cyberservice24.com^
 #https://github.com/DoctorWebLtd/malware-iocs/tree/master/get_cert%20campaign
