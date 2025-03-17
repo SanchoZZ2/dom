@@ -1,3 +1,8 @@
+#urlshort
+||bit.ly^
+||tinyurl.com^
+||vk.cc^
+||clck.ru^
 #block TLD
 ||non^
 ||ac^
@@ -169,6 +174,7 @@
 #https://www.virustotal.com/gui/file/e8833753c577fada3bfb782a806fe4416a72ac905b6b00087bf48f3df8c3757e/behavior
 ||cash4cars.nz^
 #block
+||checkip.dyndns.org^
 ||kosmohubeq.space^
 ||viirocjw.com^
 ||providosiki.ru^
