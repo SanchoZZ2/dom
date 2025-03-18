@@ -508,7 +508,6 @@ onion^
 ||cloudns.nz^
 ||crabdance.com^
 ||theworkpc.com^
-||res.public.onecdn.static.microsoft^
 #https://www.facct.ru/blog/apt-autumn/
 ||petition-roi.org^
 ||auvergnerhonealpes-jo.com^
@@ -539,7 +538,6 @@ onion^
 ||mail.speedhouseoman.com^
 ||mail.stpgig.com^
 ||mail.citycleaning.ru^
-||smtp.beget.ru^
 ||mx2.nsau.edu.ru^
 ||quasarpro.ru^
 ||zenit.kz^
