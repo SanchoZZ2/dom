@@ -7,6 +7,7 @@
 ||rlu.ru^
 ||r2.dev^
 ||zig.is^
+||pw^
 #SEC
 onion^
 147.45.179.98
