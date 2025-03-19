@@ -493,8 +493,6 @@ onion^
 ||webtimeapi.com^
 ||wirelesszone.top^
 ||writerospzm.shop^
-#malwared
-||elektromontazh-profi.ru^
 #2585 01.11.2024
 ||credit-bestsale.ru^
 #2529 06.11.2024
