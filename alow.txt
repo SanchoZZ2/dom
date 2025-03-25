@@ -1,5 +1,6 @@
 ||apple.com^
 ||adguardaccount.net^
+||iodd.kr^
 #RMS
 ||rmansys.ru^
 ||selcdn.ru^
