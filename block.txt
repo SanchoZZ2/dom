@@ -65,7 +65,6 @@
 ||gt^
 ||guide^
 ||homes^
-||host^
 ||icu^
 ||id^
 ||ie^
