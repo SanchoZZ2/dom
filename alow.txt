@@ -43,3 +43,4 @@ iperf.fr^
 ||navi42.ru^
 ||list.ru
 ||gmail.com^
+||industrycompany.ru^
