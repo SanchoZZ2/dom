@@ -2040,3 +2040,5 @@ wondrous-bluejay-lively-ngrok-free.app
 ||4ad74aab.cfd^
 ||4ad74aab.sbs^
 ||4ad74aab.fun^
+#https://securelist.ru/head-mare-attacks-with-phantompyramid/112164/
+||soft-trust.com^
