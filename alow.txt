@@ -39,6 +39,7 @@ iperf.fr^
 ||prmlkjadfgehpnvlwjekrhjfhrbmn.click^$client='192.168.70.28'
 ||docker.io^
 ||zoom.us^
+||avantechparts.co.kr^
 #для почты
 ||armgs.team^
 ||navi42.ru^
