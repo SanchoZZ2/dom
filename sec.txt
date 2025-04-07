@@ -2004,3 +2004,6 @@ wondrous-bluejay-lively-ngrok-free.app
 ||tu02n.website^
 ||inreport2.xyz^
 ||inrep.xyz^
+#https://securelist.ru/head-mare-attacks-with-phantompyramid/
+||nextcloud.soft-trust.com^
+||dveriter.ru^
