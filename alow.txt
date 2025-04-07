@@ -46,3 +46,4 @@ iperf.fr^
 ||list.ru
 ||gmail.com^
 ||industrycompany.ru^
+||vgroup.one^
