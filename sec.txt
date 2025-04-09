@@ -2007,3 +2007,6 @@ wondrous-bluejay-lively-ngrok-free.app
 #https://securelist.ru/head-mare-attacks-with-phantompyramid/
 ||nextcloud.soft-trust.com^
 ||dveriter.ru^
+#https://bi.zone/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/
+||wondrous-bluejay-lively.ngrok-free.app^
+||canarytokens.com^
