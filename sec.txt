@@ -2010,3 +2010,8 @@ wondrous-bluejay-lively-ngrok-free.app
 #https://bi.zone/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/
 ||wondrous-bluejay-lively.ngrok-free.app^
 ||canarytokens.com^
+#https://app.any.run/tasks/5a7a7486-5315-459e-b5b3-fbe01306affe
+||fssp.tech^
+||fssp.press^
+||4ad74aab.cfd^
+||4ad74aab.xyz^
