@@ -12,6 +12,7 @@
 ||s7cdn.online^
 ||kyoceradocumentsolutions.us^
 ||4pda.to^
+||mdcm.online^
 termi.us^
 tweetfeed.live^
 aka.ms^
