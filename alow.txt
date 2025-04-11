@@ -40,6 +40,7 @@ iperf.fr^
 ||docker.io^
 ||zoom.us^
 ||avantechparts.co.kr^
+||chipcart.shop^
 #для почты
 ||armgs.team^
 ||navi42.ru^
