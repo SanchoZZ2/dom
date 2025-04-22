@@ -2,6 +2,7 @@
 ||adguardaccount.net^
 ||iodd.kr^
 ||io^
+||obsidian.md^
 #RMS
 ||rmansys.ru^
 ||selcdn.ru^
