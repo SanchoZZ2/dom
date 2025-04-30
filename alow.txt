@@ -3,6 +3,7 @@
 ||iodd.kr^
 ||io^
 ||obsidian.md^
+||qwen.ai^
 #RMS
 ||rmansys.ru^
 ||selcdn.ru^
