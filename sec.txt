@@ -2801,3 +2801,6 @@ wondrous-bluejay-lively-ngrok-free.app
 ||varders.kozow.com^
 ||opezdol.org^
 ||ihsue.teiehram.org^
+#https://habr.com/ru/companies/F6/news/907064/
+||ubzor.ru^
+||stroikom-vl.ru^
