@@ -4,6 +4,7 @@
 ||io^
 ||obsidian.md^
 ||qwen.ai^
+||basealt.ru^
 #RMS
 ||rmansys.ru^
 ||selcdn.ru^
