@@ -2889,3 +2889,11 @@ wondrous-bluejay-lively-ngrok-free.app
 ||ebdbb64e.online^
 ||ebdbb64e.site^
 ||voenkomat-mil.ru^
+||getpremium.digital^
+||gift-service.info^
+||inform-service.digital^
+||localed-dog-simple.icu^
+||phpsymfony.info^
+||postomat.digital^
+||povistka.info^
+||srvc-hub.icu^
