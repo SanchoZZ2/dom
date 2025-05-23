@@ -45,6 +45,7 @@ iperf.fr^
 ||zoom.us^
 ||avantechparts.co.kr^
 ||chipcart.shop^
+||sibnet.iitrust.lk^
 #для почты
 ||armgs.team^
 ||navi42.ru^
