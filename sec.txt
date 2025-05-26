@@ -2897,3 +2897,11 @@ wondrous-bluejay-lively-ngrok-free.app
 ||postomat.digital^
 ||povistka.info^
 ||srvc-hub.icu^
+#1734 23.05.25
+||upx.sf.net^
+||apstori.ru^
+||sdexport.ru^
+||euroexchanges.com^
+||onfiltre.com.tr^
+||varindia.com^
+||catbox.moe^
