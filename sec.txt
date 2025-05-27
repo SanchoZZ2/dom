@@ -203,7 +203,7 @@ onion^
 ||e-trueconf.ru^
 ||ggnpsale.ru^
 ||tw1.ru^
-#cr87986.tw1[.]ru
+#cr87986.tw1.ru
 #1618 24.07.2024
 ||modultaip.ru^
 ||launchprom.ru^
@@ -2905,3 +2905,8 @@ wondrous-bluejay-lively-ngrok-free.app
 ||onfiltre.com.tr^
 ||varindia.com^
 ||catbox.moe^
+#https://bi.zone/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/
+||file-bazar.com^
+||pdf-bazaar.com^
+||pdfdepozit.com^
+||vashazagruzka365.com^
