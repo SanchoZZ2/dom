@@ -48,6 +48,7 @@ id.vk.ru
 ||avantechparts.co.kr^
 ||chipcart.shop^
 ||sibnet.iitrust.lk^
+||existru.acat.online^
 #для почты
 ||armgs.team^
 ||navi42.ru^
