@@ -3172,3 +3172,6 @@ nedvij-gel.ru
 ||androcl.csproject.org^
 ||login.androclesproject.o-r.kr^
 ||kro.kr^
+#https://securelist.ru/batavia-spyware-steals-data-from-russian-organizations/112974/
+||oblast-ru.com^
+||ru-exchange.com^
