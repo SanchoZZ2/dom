@@ -3175,3 +3175,5 @@ nedvij-gel.ru
 #https://securelist.ru/batavia-spyware-steals-data-from-russian-organizations/112974/
 ||oblast-ru.com^
 ||ru-exchange.com^
+#2383 18.07.2025
+||solid-logit.com^
