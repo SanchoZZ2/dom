@@ -217,7 +217,6 @@
 ||letmenowme.biz^
 drah7iczdw1tu.cloudfront.net
 #social
-||vk.ru^
 ||msn.com^
 ||pikabu.ru^
 m.dzen.ru
