@@ -3198,3 +3198,6 @@ nedvij-gel.ru
 ||rosatomgroup.com^
 ||shuttle.app^
 ||furnitura-zamki.ru^
+#2524 04.08.2025
+||auditnotice-kg.com^
+||servicedoc-kg.com^
