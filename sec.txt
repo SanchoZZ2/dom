@@ -3201,3 +3201,7 @@ nedvij-gel.ru
 #2524 04.08.2025
 ||auditnotice-kg.com^
 ||servicedoc-kg.com^
+#2672 от 18.08.2025
+||istochnik.org^
+||madebysbk.com^
+||lovetahq.com^
