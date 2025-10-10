@@ -3258,7 +3258,6 @@ nedvij-gel.ru
 ||rheinmetallcareer.org^
 ||rheinmetallcareer.com^
 ||flydubaicareers.ae.org^
-||eastus.cloudapp.azure.com^
 ||azurewebsites.net^
 ||ae.org^
 #2956 16.09.2025
