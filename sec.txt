@@ -3261,3 +3261,11 @@ nedvij-gel.ru
 ||eastus.cloudapp.azure.com^
 ||azurewebsites.net^
 ||ae.org^
+#2956 16.09.2025
+||updatechecker.org^
+||perfectfinder.net^
+||hosted-by-vdsina.ru^
+||van-darkholm.org^
+||bussines-a.ru^
+||softline-solutions.cloud^
+||asrtagate.ru^
