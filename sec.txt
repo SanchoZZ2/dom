@@ -2900,7 +2900,6 @@ wondrous-bluejay-lively-ngrok-free.app
 #1734 23.05.25
 ||upx.sf.net^
 ||apstori.ru^
-||sdexport.ru^
 ||euroexchanges.com^
 ||onfiltre.com.tr^
 ||varindia.com^
