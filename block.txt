@@ -288,3 +288,32 @@ winkms.tk
 kms7.MSGuides.com
 kms8.MSGuides.com
 kms9.MSGuides.com
+#3256 06.10.2025
+||mgutu-vf.ru^
+||phicdn.net^
+#3350 10.10.2025
+||garphicbelos.com^
+||winformation.ru^
+||bunchahanoithuduc.com^
+#3456 17.10.2025
+||workers.dev^
+||kindylib.info^
+#3596 24.10.2025
+||bumbleshrimp.com^
+||nolanwh.cf^
+||sytes.net^
+||kozow.com^
+||antiwifi.cc^
+||galaxias.cc^
+||emuvuzarern.info^
+||ees-ro.com^
+||npmjs.com^
+||npovsdev.com^
+||yastats.com^
+||mwdns.ru^
+||linuxpedia.ru^
+||ttl-service.ru^
+||kotlinapps.ru^
+||ignorelist.com^
+||strangled.net^
+||kanbanbox.com^
