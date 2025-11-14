@@ -3224,7 +3224,6 @@ nedvij-gel.ru
 ||kgauditcheck.com^
 ||proauditkg.com^
 #3136 29.09.2025
-||azurewebsites.net^
 ||global-careers.com^
 ||careersworld.org^
 ||usa-careers.com^
