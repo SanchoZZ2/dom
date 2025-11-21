@@ -6,6 +6,7 @@ neal.fun^
 ||obsidian.md^
 ||qwen.ai^
 ||basealt.ru^
+||tildacdn.one^
 #RMS
 ||rmansys.ru^
 ||selcdn.ru^
