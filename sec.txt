@@ -203,7 +203,6 @@ onion^
 #1644 26.07.2024
 ||e-trueconf.ru^
 ||ggnpsale.ru^
-||tw1.ru^
 #cr87986.tw1.ru
 #1618 24.07.2024
 ||modultaip.ru^
@@ -3257,7 +3256,6 @@ nedvij-gel.ru
 ||rheinmetallcareer.org^
 ||rheinmetallcareer.com^
 ||flydubaicareers.ae.org^
-||azurewebsites.net^
 ||ae.org^
 #2956 16.09.2025
 ||updatechecker.org^
