@@ -1,5 +1,8 @@
 #https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/
 ||pastebin.com^
+#DriverPack
+||drp.su^
+||driverpack.ru^
 #Remote
 ||remotedesktop.google.com^
 ||kali.org^
