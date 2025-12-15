@@ -3,6 +3,8 @@
 ||tinyurl.com^
 ||vk.cc^
 ||clck.ru^
+||tanki.su^
+||lesta.ru^
 #block TLD
 ||non^
 ||ac^
