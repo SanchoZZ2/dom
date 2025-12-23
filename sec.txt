@@ -3850,3 +3850,6 @@ nedvij-gel.ru
 ||op2a.beemooshka-v1.art^
 ||urbantvpn.online^
 ||wholewell.online^
+#https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/
+||fast-eda.my^
+||ruzeda.com^
