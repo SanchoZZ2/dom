@@ -2901,16 +2901,11 @@ wondrous-bluejay-lively-ngrok-free.app
 ||srvc-hub.icu^
 #1734 23.05.25
 ||upx.sf.net^
-||apstori.ru^
 ||euroexchanges.com^
 ||onfiltre.com.tr^
 ||varindia.com^
 ||catbox.moe^
 #https://bi.zone/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/
-||file-bazar.com^
-||pdf-bazaar.com^
-||pdfdepozit.com^
-||vashazagruzka365.com^
 ||myupload.net^
 ||news365.tech^
 #1808 29.05.2025
@@ -2921,41 +2916,9 @@ wondrous-bluejay-lively-ngrok-free.app
 ||randomxmonero.auto.nicehash.com^
 ||chechombudsman.ru^
 ||alternativa123.ru^
-||medbruber.ru^
 ||pl82.ru^
 #https://www.f6.ru/blog/traces-of-phantomcore/
-||supportsecurity.ru^
 ||heartbeat-api.ru^
-||supportsecure.ru^
-||cabinet-yandex.info^
-||cabinet-company.info^
-||login-verify.support^
-||updatecanonical.ru^
-||update54.ru^
-||wheelprom.ru^
-||ugroteches.ru^
-||airgrupdate.ru^
-||updateosd.ru^
-||updatens.ru^
-||updatesioa.ru^
-||rawgithubcontent.ru^
-||updateapi.ru^
-||linualsut.ru^
-||sauselid.ru^
-||sdufho.ru^
-||wilbderreis.ru^
-||officesync.ru^
-||yandex-disk.info^
-||mastersync.ru^
-||archivubuntu.ru^
-||syncpulse.ru^
-||austermis.ru^
-||jaudyoyh.ru^
-||launchprom.ru^
-||olhostingupd.ru^
-||updourlan.ru^
-||lanodesrl.ru^
-||kutruolu.ru^
 ||interoperaebility.world^
 ||cryptogragphical.world^
 ||reconfiguratifon.world^
@@ -2974,34 +2937,17 @@ wondrous-bluejay-lively-ngrok-free.app
 ||aishubs.world^
 ||etran-rzd.ru^
 ||document-file.ru^
-||platforma-zakupki.ru^
 ||debian-repo.ru^
 #1972 12.06.2025
 nedvij-gel.ru
 ||tent-lsk.ru^
 ||yasec.ru^
-||ngrok-free.app^
-||canarytokens.com^
 ||almaz-antey-info.online^
 ||antey-almaz-info.site^
-||unifikator.ru^
-||outinfo.ru^
-||anyhostings.ru^
 ||acountservices.nl^
-||office-email.ru^
-||email-informer.ru^
-||office-account.ru^
 ||deauthorization.online^
-||anyinfos.ru^
-||verifikations.ru^
-||claud-mail.ru^
-||users-mail.ru^
 ||supersuit.site^
-||downdown.ru^
-||dragonfires.ru^
 ||bmapps.org.^
-||ddns.net^
-||paste.ee^
 ||3a01.net^
 ||0ce.org^
 ||gov-by.com^
@@ -3019,20 +2965,6 @@ nedvij-gel.ru
 ||sso.dzeninfra.site^
 ||sso.dzeninfra.xyz^
 ||wincertfm.store^
-||wmiadap.xyz^
-||wmiadap.sbs^
-||wmiadap.cfd^
-||supportsecure.ru^
-||supportsecurity.ru^
-||updatesioa.ru^
-||updatecanonical.ru^
-||rawgithubcontent.ru^
-||syncpulse.ru^
-||airgrupdate.ru^
-||mastersync.ru^
-||updateapi.ru^
-||update54.ru^
-||officesync.ru^
 ||atual2025.com^
 ||clientepj.com^
 ||computadorpj.com^
@@ -3174,8 +3106,6 @@ nedvij-gel.ru
 ||login.androclesproject.o-r.kr^
 ||kro.kr^
 #https://securelist.ru/batavia-spyware-steals-data-from-russian-organizations/112974/
-||oblast-ru.com^
-||ru-exchange.com^
 #2383 18.07.2025
 ||solid-logit.com^
 #diadok
@@ -3191,7 +3121,6 @@ nedvij-gel.ru
 ||rt-inforu.ru^
 ||eliteheirs.org^
 ||sumbetray.org^
-||eliteheirs.org^
 ||quora.com^
 ||moeodincovo.com^
 #2436 25.07.2025
@@ -3223,7 +3152,6 @@ nedvij-gel.ru
 #2836 04.09.2025
 ||proauditkg.com^
 ||kgauditcheck.com^
-||proauditkg.com^
 #3136 29.09.2025
 ||global-careers.com^
 ||careersworld.org^
@@ -3695,9 +3623,6 @@ nedvij-gel.ru
 ||wojbi.xyz^
 ||woodvuqb.qpon^
 ||wrenthu.xyz^
-||ifimthere.com^
-||tong-zhuang.com^
-||tui11.com^
 ||yzwkdl.com^
 ||zjxh120.net^
 ||xurekodip.com^
@@ -3707,8 +3632,6 @@ nedvij-gel.ru
 ||yrokistorii.ru^
 ||yufxt.top^
 ||yunniuwr.beer^
-||yzwkdl.com^
-||zjxh120.net^
 ||zwiirl.xyz^
 #3040 22.09.2025
 ||lms-austria.com^
@@ -3745,13 +3668,10 @@ nedvij-gel.ru
 #3936 13.11.2025
 ||lorenabulei.com^
 ||metavasipar.hu^
-||ecols.ru^
 ||canature.su^
 ||hostbynet.ru^
 ||ezstat.ru^
 ||update.ecols.ru^
-||yip.su^
-||valisi.ru^
 ||qwadx.com^
 ||lovestu.com^
 ||xxxmorritas.com^
@@ -3833,7 +3753,6 @@ nedvij-gel.ru
 ||reserve-safe.online^
 ||online-channel.online^
 ||infonixsecurity.online^
-||xbox-updater.online^
 ||cyberposi.space^
 ||nexaguard.space^
 ||solution-itspace.online^
@@ -3853,3 +3772,23 @@ nedvij-gel.ru
 #https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/
 ||fast-eda.my^
 ||ruzeda.com^
+#4241 05.12.2025
+||y.txpx.tech^
+||pasdaran06.com^
+||cloudaro.help^
+||astro-kluch.ru^
+||storeclosures.com^
+||genesisweb-test.fr^
+||sovra.site^
+||n8nsantos.top^
+||beemooshka-v1.art^
+||cdn.electropriborzavod.ru^
+||npo-iskra.ru^
+||myrostelecom.ru^
+||electropriborzavod.ru^
+||static.myrostelecom.ru^
+||docs.npo-iskra.ru^
+||cloud.electropriborzavod.ru^
+||wris.monster^
+||n3x1lo.pro^
+||agddns.net^
