@@ -1,5 +1,6 @@
 neal.fun^
 cdn.nag.shop^
+||moonshot.cn^
 ||lonmadi.ru^
 ||apple.com^
 ||adguardaccount.net^
