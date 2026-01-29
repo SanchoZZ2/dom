@@ -1,8 +1,46 @@
 #https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/
 ||pastebin.com^
 ||contabostorage.com^
+#https://blog.sekoia.io/unveiling-the-depths-of-residential-proxies-providers/
 #infatica
 ||chtsite.com^
+#Bright SDK
+||brdtnet.com^
+||bright-sdk.com^
+||lum-sdk.io^
+||luminati-china.io^
+||luminati.io^
+||luminatinet.com^
+#EarnApp
+||earnapp.com^
+#Hola VPN
+||holavpnextension.com^
+||holavpn.net^
+||c6gj-static.net^
+||zspeed-cdn.com^
+||su89-cdn.net^
+||h-vpn.org^
+||holax.io^
+||holafreevpn.com^
+||hola-vpn.com^
+||shoopit.com^
+||holavpnworld.com^
+||holavpnrussia.com^
+||hola.org^
+||holabrowser.com^
+||holavpninstaller.com^
+||haffnetworkam.com^
+||haffnetworkmm.com^
+||yd6n63ptky.com^
+||holavpnandroid.com^
+#Honeygain
+||honeygain.com^
+#Peer2Profit
+||peer2profit.global^
+||peer2profit.app^
+#IPRoyal and Pawns.app
+||iproyal.com^
+||pawns.app^
 #https://xakep.ru/2025/12/25/fake-mas/
 ||activate.win^
 #DriverPack
