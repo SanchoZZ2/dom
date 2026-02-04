@@ -1,5 +1,6 @@
 neal.fun^
 cdn.nag.shop^
+||autoopt.ru^
 ||moonshot.cn^
 ||lonmadi.ru^
 ||apple.com^
