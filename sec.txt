@@ -46,6 +46,7 @@
 #DriverPack
 ||drp.su^
 ||driverpack.ru^
+||driverpack.io^
 #Remote
 ||remotedesktop.google.com^
 ||kali.org^
